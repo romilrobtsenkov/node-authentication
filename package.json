@@ -25,7 +25,7 @@
     "express-session": "^1.15.3",
     "lwip": "~0.0.7",
     "moment": "^2.15.2",
-    "mongoose": "^4.10.2",
+    "mongoose": "^5.7.5",
     "morgan": "^1.8.2",
     "nodemailer": "~1.4.0",
     "nodemailer-sendmail-transport": "^1.0.0",
